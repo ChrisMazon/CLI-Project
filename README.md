@@ -1,5 +1,7 @@
-# ruby-cli-template
+# Expense Tracker
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+A simple Ruby project to keep track of personal expenses.
+
+Run the `expense_tracker.rb` file in your terminal:
 
 - Ruby version: `3.2.1`
